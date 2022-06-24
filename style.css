@@ -1,0 +1,29 @@
+header {
+    background-color: black;
+    color: white;
+}
+a {
+    color: white;
+}
+img {
+    width: 830px;
+    height: 550px;
+}
+h2 {
+    color: purple;
+    text-align: center;
+}
+.social {
+    width: 100px;
+    height: 100px;
+}
+footer {
+    width: 100px;
+    height: 100px;
+}
+body {
+    font-family: sans-serif;
+}
+
+
+
